@@ -1,0 +1,702 @@
+[
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/copl.dir/RuntimeMonitor.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/RuntimeMonitor.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/RuntimeMonitor.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/copl.dir/fail.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/fail.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/fail.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/copl.dir/acstr.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/acstr.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/acstr.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/copl.dir/bitset.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/bitset.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/bitset.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/copl.dir/commandList.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/commandList.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/commandList.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/copl.dir/constraint.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/constraint.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/constraint.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/copl.dir/domain.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/domain.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/domain.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/copl.dir/fz_constraints/bool_array.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/fz_constraints/bool_array.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/fz_constraints/bool_array.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/copl.dir/fz_constraints/bool_bin.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/fz_constraints/bool_bin.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/fz_constraints/bool_bin.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/copl.dir/fz_constraints/bool_lin.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/fz_constraints/bool_lin.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/fz_constraints/bool_lin.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/copl.dir/fz_constraints/bool_misc.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/fz_constraints/bool_misc.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/fz_constraints/bool_misc.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/copl.dir/fz_constraints/flatzinc.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/fz_constraints/flatzinc.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/fz_constraints/flatzinc.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/copl.dir/fz_constraints/int_array.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/fz_constraints/int_array.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/fz_constraints/int_array.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/copl.dir/fz_constraints/int_bin.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/fz_constraints/int_bin.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/fz_constraints/int_bin.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/copl.dir/fz_constraints/int_lin.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/fz_constraints/int_lin.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/fz_constraints/int_lin.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/copl.dir/fz_constraints/int_tern.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/fz_constraints/int_tern.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/fz_constraints/int_tern.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/copl.dir/fz_parser/flatzinc.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/fz_parser/flatzinc.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/fz_parser/flatzinc.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/copl.dir/fz_parser/lexer.yy.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/fz_parser/lexer.yy.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/fz_parser/lexer.yy.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/copl.dir/fz_parser/parser.tab.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/fz_parser/parser.tab.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/fz_parser/parser.tab.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/copl.dir/fz_parser/registry.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/fz_parser/registry.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/fz_parser/registry.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/copl.dir/intvar.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/intvar.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/intvar.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/copl.dir/lex.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/lex.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/lex.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/copl.dir/mallocWatch.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/mallocWatch.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/mallocWatch.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/copl.dir/matching.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/matching.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/matching.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/copl.dir/mdd.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/mdd.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/mdd.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/copl.dir/mddAlldiff.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/mddAlldiff.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/mddAlldiff.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/copl.dir/mddAmong.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/mddAmong.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/mddAmong.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/copl.dir/mddGcc.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/mddGcc.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/mddGcc.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/copl.dir/mddAbs.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/mddAbs.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/mddAbs.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/copl.dir/mddMaximumCutObjective.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/mddMaximumCutObjective.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/mddMaximumCutObjective.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/copl.dir/mddPrecedence.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/mddPrecedence.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/mddPrecedence.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/copl.dir/mddGoc.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/mddGoc.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/mddGoc.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/copl.dir/mddSeq.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/mddSeq.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/mddSeq.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/copl.dir/mddSum.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/mddSum.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/mddSum.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/copl.dir/mddTSPSum.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/mddTSPSum.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/mddTSPSum.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/copl.dir/mdddelta.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/mdddelta.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/mdddelta.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/copl.dir/mddnode.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/mddnode.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/mddnode.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/copl.dir/mddrelax.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/mddrelax.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/mddrelax.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/copl.dir/mddstate.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/mddstate.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/mddstate.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/copl.dir/regular.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/regular.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/regular.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/copl.dir/search.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/search.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/search.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/copl.dir/solver.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/solver.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/solver.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/copl.dir/store.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/store.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/store.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/copl.dir/table.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/table.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/table.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/copl.dir/tracer.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/tracer.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/tracer.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/copl.dir/trail.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/trail.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/trail.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/copl.dir/trailable.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/trailable.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/trailable.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/fzl.dir/fz_constraints/bool_array.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/fz_constraints/bool_array.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/fz_constraints/bool_array.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/fzl.dir/fz_constraints/bool_bin.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/fz_constraints/bool_bin.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/fz_constraints/bool_bin.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/fzl.dir/fz_constraints/bool_lin.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/fz_constraints/bool_lin.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/fz_constraints/bool_lin.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/fzl.dir/fz_constraints/bool_misc.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/fz_constraints/bool_misc.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/fz_constraints/bool_misc.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/fzl.dir/fz_constraints/flatzinc.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/fz_constraints/flatzinc.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/fz_constraints/flatzinc.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/fzl.dir/fz_constraints/int_array.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/fz_constraints/int_array.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/fz_constraints/int_array.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/fzl.dir/fz_constraints/int_bin.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/fz_constraints/int_bin.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/fz_constraints/int_bin.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/fzl.dir/fz_constraints/int_lin.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/fz_constraints/int_lin.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/fz_constraints/int_lin.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/fzl.dir/fz_constraints/int_tern.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/fz_constraints/int_tern.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/fz_constraints/int_tern.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/fzl.dir/fz_parser/flatzinc.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/fz_parser/flatzinc.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/fz_parser/flatzinc.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/fzl.dir/fz_parser/lexer.yy.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/fz_parser/lexer.yy.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/fz_parser/lexer.yy.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/fzl.dir/fz_parser/parser.tab.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/fz_parser/parser.tab.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/fz_parser/parser.tab.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/fzl.dir/fz_parser/registry.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/fz_parser/registry.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/fz_parser/registry.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/adac.dir/examples/adac.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/adac.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/adac.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/ais.dir/examples/ais.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/ais.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/ais.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/bibd.dir/examples/bibd.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/bibd.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/bibd.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/inout.dir/examples/inout.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/inout.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/inout.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/magicserie.dir/examples/magicserie.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/magicserie.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/magicserie.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/magicsquare.dir/examples/magicsquare.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/magicsquare.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/magicsquare.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/magicsquarePaper.dir/examples/magicsquarePaper.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/magicsquarePaper.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/magicsquarePaper.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/main2.dir/examples/main2.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/main2.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/main2.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/main3.dir/examples/main3.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/main3.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/main3.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/MCP.dir/examples/mdd/MCP.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/MCP.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/MCP.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/MISP.dir/examples/mdd/MISP.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/MISP.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/MISP.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/MISPfile.dir/examples/mdd/MISPfile.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/MISPfile.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/MISPfile.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/SOP.dir/examples/mdd/SOP.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/SOP.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/SOP.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/aisMDDTuto.dir/examples/mdd/aisMDDTuto.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/aisMDDTuto.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/aisMDDTuto.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/allInterval.dir/examples/mdd/allInterval.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/allInterval.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/allInterval.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/allIntervalBC.dir/examples/mdd/allIntervalBC.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/allIntervalBC.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/allIntervalBC.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/alldiff.dir/examples/mdd/alldiff.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/alldiff.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/alldiff.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/alldiffOverlap.dir/examples/mdd/alldiffOverlap.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/alldiffOverlap.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/alldiffOverlap.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/alldiffOverlap0.dir/examples/mdd/alldiffOverlap0.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/alldiffOverlap0.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/alldiffOverlap0.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/among2.dir/examples/mdd/among2.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/among2.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/among2.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/among2Relax.dir/examples/mdd/among2Relax.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/among2Relax.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/among2Relax.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/among4.dir/examples/mdd/among4.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/among4.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/among4.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/among4Relax.dir/examples/mdd/among4Relax.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/among4Relax.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/among4Relax.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/amongNurse.dir/examples/mdd/amongNurse.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/amongNurse.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/amongNurse.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/amongNurse2.dir/examples/mdd/amongNurse2.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/amongNurse2.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/amongNurse2.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/amongNurse_test.dir/examples/mdd/amongNurse_test.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/amongNurse_test.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/amongNurse_test.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/amongSeqGcc.dir/examples/mdd/amongSeqGcc.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/amongSeqGcc.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/amongSeqGcc.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/amongsum.dir/examples/mdd/amongsum.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/amongsum.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/amongsum.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/carSeq.dir/examples/mdd/carSeq.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/carSeq.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/carSeq.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/carSeqMDD.dir/examples/mdd/carSeqMDD.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/carSeqMDD.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/carSeqMDD.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/carSeqMDD_WVH.dir/examples/mdd/carSeqMDD_WVH.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/carSeqMDD_WVH.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/carSeqMDD_WVH.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/carSeq_newSearch.dir/examples/mdd/carSeq_newSearch.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/carSeq_newSearch.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/carSeq_newSearch.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/gccTest.dir/examples/mdd/gccTest.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/gccTest.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/gccTest.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/mediumAllDiff.dir/examples/mdd/mediumAllDiff.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/mediumAllDiff.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/mediumAllDiff.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/mediumAllDiffRelax.dir/examples/mdd/mediumAllDiffRelax.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/mediumAllDiffRelax.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/mediumAllDiffRelax.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/mediumAmong.dir/examples/mdd/mediumAmong.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/mediumAmong.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/mediumAmong.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/mediumGCC.dir/examples/mdd/mediumGCC.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/mediumGCC.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/mediumGCC.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/mediumGCCRelax.dir/examples/mdd/mediumGCCRelax.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/mediumGCCRelax.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/mediumGCCRelax.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/mediumSeq.dir/examples/mdd/mediumSeq.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/mediumSeq.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/mediumSeq.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/mediumSeqRelax.dir/examples/mdd/mediumSeqRelax.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/mediumSeqRelax.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/mediumSeqRelax.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/mis1.dir/examples/mdd/mis1.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/mis1.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/mis1.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/mis2.dir/examples/mdd/mis2.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/mis2.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/mis2.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/mis3.dir/examples/mdd/mis3.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/mis3.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/mis3.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/mis4.dir/examples/mdd/mis4.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/mis4.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/mis4.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/multipletTinyAmong.dir/examples/mdd/multipletTinyAmong.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/multipletTinyAmong.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/multipletTinyAmong.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/sequenceNurse.dir/examples/mdd/sequenceNurse.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/sequenceNurse.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/sequenceNurse.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/sequenceNurseSplit.dir/examples/mdd/sequenceNurseSplit.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/sequenceNurseSplit.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/sequenceNurseSplit.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/sequenceTest.dir/examples/mdd/sequenceTest.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/sequenceTest.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/sequenceTest.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/sequenceTest2.dir/examples/mdd/sequenceTest2.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/sequenceTest2.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/sequenceTest2.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/sequenceTest3.dir/examples/mdd/sequenceTest3.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/sequenceTest3.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/sequenceTest3.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/sequenceTestSplit.dir/examples/mdd/sequenceTestSplit.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/sequenceTestSplit.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/sequenceTestSplit.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/sumAlldiff.dir/examples/mdd/sumAlldiff.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/sumAlldiff.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/sumAlldiff.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/sumMDD.dir/examples/mdd/sumMDD.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/sumMDD.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/sumMDD.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/tinyAllDiff.dir/examples/mdd/tinyAllDiff.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/tinyAllDiff.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/tinyAllDiff.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/tinyAllDiffRelax.dir/examples/mdd/tinyAllDiffRelax.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/tinyAllDiffRelax.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/tinyAllDiffRelax.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/tinyGCC.dir/examples/mdd/tinyGCC.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/tinyGCC.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/tinyGCC.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/tinySeq.dir/examples/mdd/tinySeq.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/tinySeq.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/tinySeq.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/tinySeqRelax.dir/examples/mdd/tinySeqRelax.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/tinySeqRelax.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/tinySeqRelax.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/tinymdd.dir/examples/mdd/tinymdd.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/tinymdd.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/tinymdd.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/workForce.dir/examples/mdd/workForce.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/workForce.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/workForce.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/workForceClassic.dir/examples/mdd/workForceClassic.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/workForceClassic.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/workForceClassic.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/workForceWVH.dir/examples/mdd/workForceWVH.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/workForceWVH.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/workForceWVH.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/mddamong.dir/examples/mddamong.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mddamong.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mddamong.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/msperf.dir/examples/msperf.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/msperf.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/msperf.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/nqperf.dir/examples/nqperf.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/nqperf.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/nqperf.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/nqueensAC.dir/examples/nqueensAC.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/nqueensAC.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/nqueensAC.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/qap.dir/examples/qap.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/qap.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/qap.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/qaplns.dir/examples/qaplns.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/qaplns.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/qaplns.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/regular.dir/examples/regular.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/regular.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/regular.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/stablemarriage.dir/examples/stablemarriage.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/stablemarriage.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/stablemarriage.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/steel.dir/examples/steel.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/steel.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/steel.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/table.dir/examples/table.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/table.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/table.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/tsp.dir/examples/tsp.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/tsp.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/tsp.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/aisCP.dir/examples/tutorial/aisCP.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/tutorial/aisCP.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/tutorial/aisCP.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/aisMDD.dir/examples/tutorial/aisMDD.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/tutorial/aisMDD.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/tutorial/aisMDD.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/atMost.dir/examples/tutorial/atMost.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/tutorial/atMost.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/tutorial/atMost.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/atMostHandout.dir/examples/tutorial/atMostHandout.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/tutorial/atMostHandout.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/tutorial/atMostHandout.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/misCP.dir/examples/tutorial/misCP.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/tutorial/misCP.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/tutorial/misCP.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/misMDD.dir/examples/tutorial/misMDD.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/tutorial/misMDD.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/tutorial/misMDD.cpp"
+},
+{
+  "directory": "/Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/. -Wall -Wsign-compare -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17 -o minicpp/CMakeFiles/fzn-minicpp.dir/examples/fz.cpp.o -c /Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/fz.cpp",
+  "file": "/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/fz.cpp"
+}
+]

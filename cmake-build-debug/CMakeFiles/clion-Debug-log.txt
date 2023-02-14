@@ -1,0 +1,105 @@
+"/Users/xingwencui/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/Users/xingwencui/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/CLion.app/Contents/bin/ninja/mac/ninja" -G Ninja -S /Users/xingwencui/Programming/Optimization/MiniLCG -B /Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug
+CMake Deprecation Warning at minisat/CMakeLists.txt:1 (cmake_minimum_required):
+  Compatibility with CMake < 2.8.12 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+FR   : -O3 -D_NDEBUG -DNDEBUG
+Build: Debug
+/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/adac.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/ais.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/bibd.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/inout.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/magicserie.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/magicsquare.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/magicsquarePaper.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/main2.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/main3.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/MCP.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/MISP.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/MISPfile.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/SOP.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/aisMDDTuto.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/allInterval.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/allIntervalBC.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/alldiff.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/alldiffOverlap.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/alldiffOverlap0.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/among2.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/among2Relax.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/among4.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/among4Relax.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/amongNurse.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/amongNurse2.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/amongNurse_test.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/amongSeqGcc.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/amongsum.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/carSeq.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/carSeqMDD.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/carSeqMDD_WVH.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/carSeq_newSearch.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/gccTest.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/mediumAllDiff.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/mediumAllDiffRelax.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/mediumAmong.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/mediumGCC.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/mediumGCCRelax.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/mediumSeq.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/mediumSeqRelax.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/mis1.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/mis2.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/mis3.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/mis4.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/multipletTinyAmong.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/sequenceNurse.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/sequenceNurseSplit.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/sequenceTest.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/sequenceTest2.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/sequenceTest3.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/sequenceTestSplit.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/sumAlldiff.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/sumMDD.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/tinyAllDiff.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/tinyAllDiffRelax.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/tinyGCC.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/tinySeq.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/tinySeqRelax.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/tinymdd.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/workForce.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/workForceClassic.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mdd/workForceWVH.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/mddamong.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/msperf.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/nqperf.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/nqueensAC.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/qap.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/qaplns.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/regular.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/stablemarriage.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/steel.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/table.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/tsp.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/tutorial/aisCP.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/tutorial/aisMDD.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/tutorial/atMost.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/tutorial/atMostHandout.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/tutorial/misCP.cpp;/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp/examples/tutorial/misMDD.cpp
+BASE IS: [adac]
+BASE IS: [ais]
+BASE IS: [bibd]
+BASE IS: [inout]
+BASE IS: [magicserie]
+BASE IS: [magicsquare]
+BASE IS: [magicsquarePaper]
+BASE IS: [main2]
+BASE IS: [main3]
+BASE IS: [MCP]
+BASE IS: [MISP]
+BASE IS: [MISPfile]
+BASE IS: [SOP]
+BASE IS: [aisMDDTuto]
+BASE IS: [allInterval]
+BASE IS: [allIntervalBC]
+BASE IS: [alldiff]
+BASE IS: [alldiffOverlap]
+BASE IS: [alldiffOverlap0]
+BASE IS: [among2]
+BASE IS: [among2Relax]
+BASE IS: [among4]
+BASE IS: [among4Relax]
+BASE IS: [amongNurse]
+BASE IS: [amongNurse2]
+BASE IS: [amongNurse_test]
+BASE IS: [amongSeqGcc]
+BASE IS: [amongsum]
+BASE IS: [carSeq]
+BASE IS: [carSeqMDD]
+BASE IS: [carSeqMDD_WVH]
+BASE IS: [carSeq_newSearch]
+BASE IS: [gccTest]
+BASE IS: [mediumAllDiff]
+BASE IS: [mediumAllDiffRelax]
+BASE IS: [mediumAmong]
+BASE IS: [mediumGCC]
+BASE IS: [mediumGCCRelax]
+BASE IS: [mediumSeq]
+BASE IS: [mediumSeqRelax]
+BASE IS: [mis1]
+BASE IS: [mis2]
+BASE IS: [mis3]
+BASE IS: [mis4]
+BASE IS: [multipletTinyAmong]
+BASE IS: [sequenceNurse]
+BASE IS: [sequenceNurseSplit]
+BASE IS: [sequenceTest]
+BASE IS: [sequenceTest2]
+BASE IS: [sequenceTest3]
+BASE IS: [sequenceTestSplit]
+BASE IS: [sumAlldiff]
+BASE IS: [sumMDD]
+BASE IS: [tinyAllDiff]
+BASE IS: [tinyAllDiffRelax]
+BASE IS: [tinyGCC]
+BASE IS: [tinySeq]
+BASE IS: [tinySeqRelax]
+BASE IS: [tinymdd]
+BASE IS: [workForce]
+BASE IS: [workForceClassic]
+BASE IS: [workForceWVH]
+BASE IS: [mddamong]
+BASE IS: [msperf]
+BASE IS: [nqperf]
+BASE IS: [nqueensAC]
+BASE IS: [qap]
+BASE IS: [qaplns]
+BASE IS: [regular]
+BASE IS: [stablemarriage]
+BASE IS: [steel]
+BASE IS: [table]
+BASE IS: [tsp]
+BASE IS: [aisCP]
+BASE IS: [aisMDD]
+BASE IS: [atMost]
+BASE IS: [atMostHandout]
+BASE IS: [misCP]
+BASE IS: [misMDD]
+-- Configuring done
+CMake Warning (dev):
+  Policy CMP0042 is not set: MACOSX_RPATH is enabled by default.  Run "cmake
+  --help-policy CMP0042" for policy details.  Use the cmake_policy command to
+  set the policy and suppress this warning.
+
+  MACOSX_RPATH is not specified for the following targets:
+
+   minisat-lib-shared
+
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Generating done
+-- Build files have been written to: /Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug
