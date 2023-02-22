@@ -98,31 +98,31 @@ void sparseSetDomain::removeBelow(int newMin) {
 
 //elDomain
 elDomain::elDomain( int min, int max)
-    : _min(min), _max(max), _size(max-min+1), eqVector(_size), geVector(_size-2){}
+    : _min(min), _max(max), _size(max-min+1), eqVector(_size), geVector(_size-2),_n(max-min+1){}
 
 void elDomain::updateLb(int lb) {
     checkInDomain(lb);
-    assert(lb<=*ubptr);
+    assert(lb<=_ub);
     if(lb == _min)  // lower bound == min
-        lbptr = &eqVector[0];
-    else if (lb == *ubptr)  //lower bound == upper bound
-        lbptr = ubptr;
+        _lb = eqVector[0] + _ofs;
+    else if (lb == _ub)  //lower bound == upper bound
+        _lb = _ub;
     else { // lower bound <lower bound < upper bound
         int gap = lb-_min; // the gap of lower bound - min value;
-        lbptr = &geVector[gap-1]; //point to greater equal list
+        _lb = geVector[gap - 1] + _ofs - _n + 1; //point to greater equal list
     }
 }
 
 void elDomain::updateUb(int ub) {
     checkInDomain(ub);
-    assert(ub>=*lbptr);
+    assert(ub>=_lb);
     if(ub == _max)  // lower bound == min
-        ubptr = &eqVector[_n-1];
-    else if (ub == *lbptr)  //lower bound == upper bound
-        ubptr = lbptr;
+        _ub = eqVector[_n - 1] + _ofs;
+    else if (ub == _lb)  //lower bound == upper bound
+        _ub = _lb;
     else { // lower bound <lower bound < upper bound
         int gap = _max - ub; // the gap of lower bound - min value;
-        ubptr = &geVector[_size-3-gap]; //point to greater equal list
+        _ub = geVector[_size - 2 - gap] + _ofs - _n + 1; //point to greater equal list
     }
 }
 
@@ -149,3 +149,13 @@ int elDomain::findIdx(int val, bool eq) {
         return val - min() - 1;
     }
 }
+
+int elDomain::toInt(int idx, bool isEq) {
+    assert(idx<=_n-1);
+    if (isEq){
+        return eqVector[idx] + _ofs;
+    } else {
+        return geVector[idx] + _ofs - _n + 1;
+    }
+}
+

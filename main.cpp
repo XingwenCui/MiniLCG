@@ -61,6 +61,51 @@ void minilcg_test() {
     for (int i = 0; i < x[0].size()-2; i++){
         std::cout<<~Minisat::mkLit(x[0].getGeVector()[i],true).x<<" ";
     }
+
+    std::cout<<"\n"<<x[0].min()<<std::endl;
+    std::cout<<x[0].toInt(0,false)<<"\n"<<x[0].getEqVector()[0]<<std::endl;
+
+    x[0].updateLb(5);
+    x[0].updateUb(8);
+    std::cout<<"The lower bound is: "<<x[0].getLb()<<std::endl;
+    std::cout<<"The upper bound is: "<<x[0].getUb()<<std::endl;
+    int xx = x[0].getEqVector()[0];
+    std::cout<<xx<<std::endl;
+    for (int i = 0; i < x[0].size(); i++){
+        std::cout<<x[0].getEqVector()[i]<<" ";
+    }
+
+
+}
+
+void SatTest(){
+    using Minisat::mkLit;
+    using Minisat::lbool;
+
+    //create sat solver
+    Minisat::Solver solver;
+
+    //create variables
+    auto A = solver.newVar();
+    auto B = solver.newVar();
+    auto C = solver.newVar();
+
+    //create clauses A\/B\/C; -A\/B\/C; A\/-B\/C;A\/B\/-C;
+    solver.addClause(mkLit(A), mkLit(B), mkLit(C));
+    solver.addClause(~mkLit(A), mkLit(B), mkLit(C));
+    solver.addClause(mkLit(A), ~mkLit(B), mkLit(C));
+    solver.addClause(mkLit(A), mkLit(B), ~mkLit(C));
+//    std::cout<<(solver.modelValue(A)==Minisat::l_True)<<std::endl;
+    //check for solution and retrieve model if found
+    auto sat = solver.solve();
+    if (sat){
+        std::cout<<"SAT\n"<<"Model found:\n";
+        std::cout<<"A:="<<(solver.modelValue(A) == Minisat::l_True)<<"\n";
+        std::cout<<"B:="<<(solver.modelValue(B) == Minisat::l_True)<<"\n";
+        std::cout<<"C:="<<(solver.modelValue(C) == Minisat::l_True)<<"\n";
+    } else {
+        std::cout<<"UNSAT\n";
+    }
 }
 
 //MINILCG sparseset follow MINIcp api
@@ -71,12 +116,13 @@ int main() {
     Minisat::Var nv = slv.newVar();
     Minisat::Var nv2 = slv.newVar();
 
-//    minilcg_test();
+    minilcg_test();
 //    return 0;
 //    domain_test();
-
+//    SatTest();
     std::cout << "Hello, MiniSAT! var = " << toInt(Minisat::mkLit(nv,true)) << ", next = " << toInt(Minisat::mkLit(nv2,true)) << std::endl;
     std::cout<<nv<<" "<<nv2<<std::endl;
+
 
 
 

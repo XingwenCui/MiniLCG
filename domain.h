@@ -68,7 +68,7 @@ class elDomain{
 private:
     int _min, _max, _size, _n, _ofs;
     std::vector<satvar> eqVector, geVector;
-    satvar * lbptr, * ubptr;
+    satvar _lb, _ub;
     bool checkInDomain(int value) const { assert(value <= _max && value >= _min); return true;}
 public:
     elDomain(int min, int max);
@@ -78,10 +78,18 @@ public:
     int size() const {return this->_size;}
     std::vector<satvar> getEqVector() const {return eqVector;}
     std::vector<satvar> getGeVector() const {return geVector;}
-
+    int getOfs() const {return _ofs;}
     void setOfs(int ofs) {_ofs=ofs;}
     void setEqVector(int idx, int satVar) {eqVector[idx] = satVar;}
     void setGeVector(int idx, int satVar) {geVector[idx] = satVar;}
+    void initBound() { _lb = eqVector[0] + _ofs; _ub = eqVector[_n - 1] + _ofs;}
+
+    bool isFix() const {return size() == 1;}
+    bool isEmpty() const {return size() == 0;}
+    int getLb() const {return _lb;}
+    int getUb() const {return _ub;}
+    int toInt(int idx, bool isEq);
+
     void updateLb(int lb);
     void updateUb(int ub);
 
