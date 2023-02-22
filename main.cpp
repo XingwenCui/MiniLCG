@@ -4,12 +4,12 @@
 #include "minicpp/intvar.hpp"
 #include "minicpp/constraint.hpp"
 #include "minicpp/search.hpp"
+#include "var.h"
+#include "domain.h"
+#include "Solver.h"
 
 
-int main() {
-    Minisat::Solver slv;
-    Minisat::Var nv = slv.newVar();
-    Minisat::Var nv2 = slv.newVar();
+void minicpp_test(){
     using namespace Factory;
     using namespace std;
     const int n = 12;
@@ -45,9 +45,39 @@ int main() {
     cout << stat << endl;
 
     cp.dealloc();
-    return 0;
+}
 
-    std::cout << "Hello, MiniSAT! var = " << nv << ", next = " << nv2 << std::endl;
+
+void minilcg_test() {
+    MiniLCG::Solver slv;
+    slv.addnewVar(3,10);
+    slv.addnewVar(2,5);
+
+    auto x = slv.getVarList();
+    for (int i = 0; i < x[0].size(); i++){
+        std::cout<<Minisat::mkLit(x[0].getEqVector()[i], true).x<<" ";
+    }
+    std::cout<<std::endl;
+    for (int i = 0; i < x[0].size()-2; i++){
+        std::cout<<~Minisat::mkLit(x[0].getGeVector()[i],true).x<<" ";
+    }
+}
+
+//MINILCG sparseset follow MINIcp api
+//reason x: ge(4,{y:ge(3)})
+
+int main() {
+    Minisat::Solver slv;
+    Minisat::Var nv = slv.newVar();
+    Minisat::Var nv2 = slv.newVar();
+
+//    minilcg_test();
+//    return 0;
+//    domain_test();
+
+    std::cout << "Hello, MiniSAT! var = " << toInt(Minisat::mkLit(nv,true)) << ", next = " << toInt(Minisat::mkLit(nv2,true)) << std::endl;
+    std::cout<<nv<<" "<<nv2<<std::endl;
+
 
 
     return 0;

@@ -53,6 +53,20 @@ build CMakeFiles/MiniLCG.dir/main.cpp.o: CXX_COMPILER__MiniLCG_Debug /Users/xing
   OBJECT_DIR = CMakeFiles/MiniLCG.dir
   OBJECT_FILE_DIR = CMakeFiles/MiniLCG.dir
 
+build CMakeFiles/MiniLCG.dir/domain.cpp.o: CXX_COMPILER__MiniLCG_Debug /Users/xingwencui/Programming/Optimization/MiniLCG/domain.cpp || cmake_object_order_depends_target_MiniLCG
+  DEP_FILE = CMakeFiles/MiniLCG.dir/domain.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17
+  INCLUDES = -I/Users/xingwencui/Programming/Optimization/MiniLCG/minisat -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp
+  OBJECT_DIR = CMakeFiles/MiniLCG.dir
+  OBJECT_FILE_DIR = CMakeFiles/MiniLCG.dir
+
+build CMakeFiles/MiniLCG.dir/Solver.cpp.o: CXX_COMPILER__MiniLCG_Debug /Users/xingwencui/Programming/Optimization/MiniLCG/Solver.cpp || cmake_object_order_depends_target_MiniLCG
+  DEP_FILE = CMakeFiles/MiniLCG.dir/Solver.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17
+  INCLUDES = -I/Users/xingwencui/Programming/Optimization/MiniLCG/minisat -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp
+  OBJECT_DIR = CMakeFiles/MiniLCG.dir
+  OBJECT_FILE_DIR = CMakeFiles/MiniLCG.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target MiniLCG
@@ -61,7 +75,7 @@ build CMakeFiles/MiniLCG.dir/main.cpp.o: CXX_COMPILER__MiniLCG_Debug /Users/xing
 #############################################
 # Link the executable MiniLCG
 
-build MiniLCG: CXX_EXECUTABLE_LINKER__MiniLCG_Debug CMakeFiles/MiniLCG.dir/main.cpp.o | minisat/libminisat.a minicpp/libcopl.a /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/lib/libz.tbd || minicpp/libcopl.a minisat/libminisat.a
+build MiniLCG: CXX_EXECUTABLE_LINKER__MiniLCG_Debug CMakeFiles/MiniLCG.dir/main.cpp.o CMakeFiles/MiniLCG.dir/domain.cpp.o CMakeFiles/MiniLCG.dir/Solver.cpp.o | minisat/libminisat.a minicpp/libcopl.a /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/lib/libz.tbd || minicpp/libcopl.a minisat/libminisat.a
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk
   LINK_LIBRARIES = minisat/libminisat.a  minicpp/libcopl.a  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/lib/libz.tbd
   OBJECT_DIR = CMakeFiles/MiniLCG.dir

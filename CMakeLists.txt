@@ -7,10 +7,8 @@ add_subdirectory(minisat)
 add_subdirectory(minicpp)
 
 add_executable(MiniLCG
-    main.cpp
-#    minilcg/intvar.cpp
-#    minilcg/intvar.h
-)
+    main.cpp domain.cpp domain.h Solver.cpp Solver.h)
+
 
 target_link_libraries(MiniLCG
                     minisat-lib-static
