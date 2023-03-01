@@ -67,6 +67,20 @@ build CMakeFiles/MiniLCG.dir/domain.cpp.o: CXX_COMPILER__MiniLCG_Debug /Users/xi
   OBJECT_DIR = CMakeFiles/MiniLCG.dir
   OBJECT_FILE_DIR = CMakeFiles/MiniLCG.dir
 
+build CMakeFiles/MiniLCG.dir/reason.cpp.o: CXX_COMPILER__MiniLCG_Debug /Users/xingwencui/Programming/Optimization/MiniLCG/reason.cpp || cmake_object_order_depends_target_MiniLCG
+  DEP_FILE = CMakeFiles/MiniLCG.dir/reason.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17
+  INCLUDES = -I/Users/xingwencui/Programming/Optimization/MiniLCG/minisat -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp
+  OBJECT_DIR = CMakeFiles/MiniLCG.dir
+  OBJECT_FILE_DIR = CMakeFiles/MiniLCG.dir
+
+build CMakeFiles/MiniLCG.dir/IntVar.cpp.o: CXX_COMPILER__MiniLCG_Debug /Users/xingwencui/Programming/Optimization/MiniLCG/IntVar.cpp || cmake_object_order_depends_target_MiniLCG
+  DEP_FILE = CMakeFiles/MiniLCG.dir/IntVar.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17
+  INCLUDES = -I/Users/xingwencui/Programming/Optimization/MiniLCG/minisat -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp
+  OBJECT_DIR = CMakeFiles/MiniLCG.dir
+  OBJECT_FILE_DIR = CMakeFiles/MiniLCG.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target MiniLCG
@@ -75,7 +89,7 @@ build CMakeFiles/MiniLCG.dir/domain.cpp.o: CXX_COMPILER__MiniLCG_Debug /Users/xi
 #############################################
 # Link the executable MiniLCG
 
-build MiniLCG: CXX_EXECUTABLE_LINKER__MiniLCG_Debug CMakeFiles/MiniLCG.dir/main.cpp.o CMakeFiles/MiniLCG.dir/Solver.cpp.o CMakeFiles/MiniLCG.dir/domain.cpp.o | minisat/libminisat.a minicpp/libcopl.a /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/lib/libz.tbd || minicpp/libcopl.a minisat/libminisat.a
+build MiniLCG: CXX_EXECUTABLE_LINKER__MiniLCG_Debug CMakeFiles/MiniLCG.dir/main.cpp.o CMakeFiles/MiniLCG.dir/Solver.cpp.o CMakeFiles/MiniLCG.dir/domain.cpp.o CMakeFiles/MiniLCG.dir/reason.cpp.o CMakeFiles/MiniLCG.dir/IntVar.cpp.o | minisat/libminisat.a minicpp/libcopl.a /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/lib/libz.tbd || minicpp/libcopl.a minisat/libminisat.a
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk
   LINK_LIBRARIES = minisat/libminisat.a  minicpp/libcopl.a  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/lib/libz.tbd
   OBJECT_DIR = CMakeFiles/MiniLCG.dir
@@ -85,35 +99,37 @@ build MiniLCG: CXX_EXECUTABLE_LINKER__MiniLCG_Debug CMakeFiles/MiniLCG.dir/main.
   TARGET_PDB = MiniLCG.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target SATTest
+# Object build statements for EXECUTABLE target SatTest
 
 
 #############################################
-# Order-only phony target for SATTest
+# Order-only phony target for SatTest
 
-build cmake_object_order_depends_target_SATTest: phony || CMakeFiles/SATTest.dir
+build cmake_object_order_depends_target_SatTest: phony || cmake_object_order_depends_target_copl cmake_object_order_depends_target_minisat-lib-static
 
-build CMakeFiles/SATTest.dir/SatTest.cpp.o: CXX_COMPILER__SATTest_Debug /Users/xingwencui/Programming/Optimization/MiniLCG/SatTest.cpp || cmake_object_order_depends_target_SATTest
-  DEP_FILE = CMakeFiles/SATTest.dir/SatTest.cpp.o.d
+build CMakeFiles/SatTest.dir/SatTets.cpp.o: CXX_COMPILER__SatTest_Debug /Users/xingwencui/Programming/Optimization/MiniLCG/SatTets.cpp || cmake_object_order_depends_target_SatTest
+  DEP_FILE = CMakeFiles/SatTest.dir/SatTets.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17
-  OBJECT_DIR = CMakeFiles/SATTest.dir
-  OBJECT_FILE_DIR = CMakeFiles/SATTest.dir
+  INCLUDES = -I/Users/xingwencui/Programming/Optimization/MiniLCG/minisat -I/Users/xingwencui/Programming/Optimization/MiniLCG/minicpp
+  OBJECT_DIR = CMakeFiles/SatTest.dir
+  OBJECT_FILE_DIR = CMakeFiles/SatTest.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target SATTest
+# Link build statements for EXECUTABLE target SatTest
 
 
 #############################################
-# Link the executable SATTest
+# Link the executable SatTest
 
-build SATTest: CXX_EXECUTABLE_LINKER__SATTest_Debug CMakeFiles/SATTest.dir/SatTest.cpp.o
+build SatTest: CXX_EXECUTABLE_LINKER__SatTest_Debug CMakeFiles/SatTest.dir/SatTets.cpp.o | minisat/libminisat.a minicpp/libcopl.a /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/lib/libz.tbd || minicpp/libcopl.a minisat/libminisat.a
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk
-  OBJECT_DIR = CMakeFiles/SATTest.dir
+  LINK_LIBRARIES = minisat/libminisat.a  minicpp/libcopl.a  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/usr/lib/libz.tbd
+  OBJECT_DIR = CMakeFiles/SatTest.dir
   POST_BUILD = :
   PRE_LINK = :
-  TARGET_FILE = SATTest
-  TARGET_PDB = SATTest.dbg
+  TARGET_FILE = SatTest
+  TARGET_PDB = SatTest.dbg
 
 
 #############################################
@@ -3821,7 +3837,7 @@ build workForceWVH: phony minicpp/workForceWVH
 #############################################
 # Folder: /Users/xingwencui/Programming/Optimization/MiniLCG/cmake-build-debug
 
-build all: phony MiniLCG SATTest minisat/all minicpp/all
+build all: phony MiniLCG SatTest minisat/all minicpp/all
 
 # =============================================================================
 

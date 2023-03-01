@@ -4,29 +4,20 @@
 
 #ifndef MINILCG_SOLVER_H
 #define MINILCG_SOLVER_H
-#include "var.h"
 #include "domain.h"
 
 namespace MiniLCG{
     typedef Minisat::Lit Lit;
 
-
-
     class Solver {
     public:
-        sat_solver satSolver;
+        Minisat::Solver satSolver;
         std::vector<elDomain> varList;
 
         Solver();
 
         std::vector<elDomain> getVarList() const {return varList;}
         void addnewVar(int min, int max);
-
-
-
-
-
-
 
     };
 }
