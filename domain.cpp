@@ -20,12 +20,21 @@ elDomain::elDomain(sat_solver *solver, int min, int max)
         else
             geVector[j] = solver->newVar();
     }
+    setOfs(min - eqVector[0]);
 }
 
 void elDomain::assign(sat_solver *s, int v, reason *r) {
+    checkInDomain(v);
+    contain(v);
     updateLb(s,v,r);
     updateUb(s,v,r);
-    s->setPolarity(eqVector[v-_ofs],Minisat::l_True);
+    s->setPolarity(eqVector[findIdx(v)],Minisat::l_True);
+}
+
+void elDomain::remove(sat_solver *s, int v, reason *r) {
+    checkInDomain(v);
+    contain(v);
+    s->setPolarity(eqVector[findIdx(v)],Minisat::l_False);
 }
 
 void elDomain::updateLb(sat_solver *s, int lb, reason *r) {
@@ -66,7 +75,7 @@ void elDomain::updateUb(sat_solver *s, int ub, reason *r) {
 }
 
 int elDomain::findVar(int val, bool eq) {
-    //input a value in domain, return the sar value of the sat var;
+    //input a value in domain, return the sat value of the sat var;
     checkInDomain(val);
     if (eq){
         return val+_ofs;
@@ -82,11 +91,19 @@ int elDomain::findVar(int val, bool eq) {
 
 int elDomain::findIdx(int val, bool eq) {
     checkInDomain(val);
-    if (eq||val == min() && val == max()){
+    if (eq||val == min() || val == max()){
         return val - min();
     } else {
         return val - min() - 1;
     }
+}
+
+int elDomain::findValue(satvar var) const{
+    assert(var>= eqVector[0] && var <= geVector[_n - 2]);
+    if (var+_ofs > eqVector[_n-1])
+        return var + _ofs - _n + 1;
+    else
+        return var + _ofs;
 }
 
 int elDomain::toInt(int idx, bool isEq) {

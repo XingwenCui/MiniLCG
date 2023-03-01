@@ -26,9 +26,13 @@ private:
     int _min, _max, _size, _n, _ofs;
     std::vector<satvar> eqVector, geVector;
     satvar _lb, _ub;
-    bool checkInDomain(int value) const { assert(value <= _max && value >= _min); return true;}
+
 public:
     elDomain(sat_solver * solver, int min, int max);
+
+    bool checkInDomain(int value) const { assert(value <= _max && value >= _min); return true;}
+    bool contain(int value) const { assert(value<= findValue(_ub) && value>= findValue(_lb));return true;}
+
 
     int min() const {return this->_min;}
     int max() const {return this->_max;}
@@ -51,6 +55,7 @@ public:
 
     int findVar(int val, bool eq = true);
     int findIdx(int val, bool eq = true);
+    int findValue(satvar var) const;
 
     //print to test the domain
     void printDom(){
@@ -63,6 +68,7 @@ public:
         for (int i = 0; i < _size; i++){
             std::cout<<geVector[i]<<" ";
         }
+        std::cout<<std::endl;
     }
 };
 

@@ -1,23 +1,23 @@
-//
-// Created by Xingwen Cui on 20/2/2023.
-//
 
 #ifndef MINILCG_SOLVER_H
 #define MINILCG_SOLVER_H
-#include "domain.h"
+#include "iostream"
+#include "minisat/core/Solver.h"
+#include "IntVar.h" //Cant include this
 
 namespace MiniLCG{
     typedef Minisat::Lit Lit;
 
     class Solver {
+    private:
+        Minisat::Solver *satSolver;
+//        std::vector<IntVar> varList;
     public:
-        Minisat::Solver satSolver;
-        std::vector<elDomain> varList;
+        Solver() : satSolver(new Minisat::Solver()) {}
+//        std::vector<IntVar> getVarList() const {return varList;}
+        Minisat::Solver *getSatSolver() const {return satSolver;}
 
-        Solver();
-
-        std::vector<elDomain> getVarList() const {return varList;}
-        void addnewVar(int min, int max);
+//        void addNewVar(int min, int max);
 
     };
 }
